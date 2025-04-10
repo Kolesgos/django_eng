@@ -1,0 +1,224 @@
+word;translation;source;learned
+above;выше (выше в тексте, например);db;False
+abstract;абстрактный (например, абстрактный класс);db;False
+access;доступ;db;False
+account;аккаунт, учётная запись;db;False
+after;после;db;False
+allow;разрешить (например, доступ пользователю или группе);db;False
+already;уже;db;False
+append;добавить, присоединить (например, элемент в конец списка);db;False
+architecture;архитектура;db;False
+archive;архивировать;db;False
+argument;аргумент;db;False
+array;массив;db;False
+asynchronous;асинхронный;db;False
+authenticate;аутентификация, проверка подлинности (например, проверка подлинности пользователя путём проверки корректности введённого им логина и пароля);db;False
+authorize;авторизация, разрешить (например, проверка наличия прав на выполнение действия в системе);db;False
+automatic;автоматический;db;False
+backend;серверное ПО;db;False
+before;до;db;False
+below;ниже (ниже в тексте, например);db;False
+bold;жирный;db;False
+boolean;булево, булевский тип данных (имеющий значение правда или ложь);db;False
+boot;загрузка, загрузить (например, загрузить ОС Linux);db;False
+branch;ветка (например, в Git-репозитории проекта);db;False
+built-in;встроенный;db;False
+capabilities;возможности;db;False
+change;изменить (например, change timezone — изменить временную зону);db;False
+char, symbol;символ, знак;db;False
+child;ребёнок, дочерний;db;False
+class;класс;db;False
+code, source code;код (в смысле исходный код программы или в смысле код/номер ошибки или статуса, например, HTTP code — код HTTP статуса);db;False
+coding, programming;программирование, разработка ПО;db;False
+column;колонка;db;False
+command;команда;db;False
+compile;компилировать;db;False
+compress;сжимать;db;False
+concurrency;конкурентность;db;False
+configure;конфигурировать;db;False
+connect;соединяться, подключаться (например, к серверу);db;False
+connection;соединение;db;False
+constant;константа;db;False
+continuous delivery;непрерывная доставка;db;False
+continuous integration;непрерывная интеграция;db;False
+convention;соглашение;db;False
+copy;копировать (например, текст или файл);db;False
+count;количество (например, элементов с массиве);db;False
+create;создавать;db;False
+current;текущий (например, current date — текущая дата);db;False
+cut;вырезать (например, текст или файл);db;False
+data type;тип данных;db;False
+data;данные, информация;db;False
+database;база данных, БД;db;False
+date;дата;db;False
+debug;отлаживать (программу);db;False
+decrypt;расшифровать;db;False
+default;по умолчанию;db;False
+definition;определение (например, функции);db;False
+deny;запретить (например, доступ пользователю или группе);db;False
+dependency injection;инъекция зависимости;db;False
+dependency;зависимость;db;False
+deploy;развертывание приложения на сервере;db;False
+deprecated;устаревший;db;False
+design;проектировать, создавать, проектирование, разработка, дизайн;db;False
+develop;разрабатывать;db;False
+device;устройство;db;False
+dictionary;словарь ключ-значение;db;False
+disable;деактивировать, отключить;db;False
+disconnect;отсоединиться, отключиться (например, от сервера);db;False
+disk;диск;db;False
+documentation;документация;db;False
+domain;домен (например, yandex.ru);db;False
+download;загружать что-то из сети/Интернет;db;False
+drop, delete, remove;удалить, убрать;db;False
+dynamic;динамический;db;False
+enable;активировать, включить;db;False
+encrypt;зашифровать;db;False
+environment variable;переменная среды;db;False
+example;пример (for example — например);db;False
+exception;исключение (нестандартное поведение системы, которое мы обрабатываем отдельным кодом);db;False
+exit;выход, выйти (например, выйти из программы);db;False
+expression;выражение;db;False
+extend;расширить;db;False
+fast;быстрый;db;False
+figure;рисунок;db;False
+find;искать, найти;db;False
+first;первый;db;False
+folder, directory;папка, директория;db;False
+formatting;форматирование;db;False
+freeware;бесплатное ПО;db;False
+from scratch;с нуля (например, создавать проект с нуля);db;False
+frontend;клиентское ПО, работающее на устройстве пользователя;db;False
+function call;вызов функции;db;False
+function;функция;db;False
+gateway;шлюз;db;False
+get;получить (например, get name — получить имя);db;False
+group;группа (например, пользователей);db;False
+hardware;аппаратное обеспечение, оборудование;db;False
+hide;скрыть;db;False
+hostname;имя хоста (компьютера/сервера) в сети;db;False
+hot key;горячая клавиша;db;False
+hyperlink;гиперссылка (например, ссылка на веб-странице);db;False
+image, picture;изображение;db;False
+immutable;неизменяемый (например, тип данных);db;False
+implement;реализовать;db;False
+import;импорт (например, кода из библиотеки);db;False
+index;индекс (например, поисковый индекс БД);db;False
+inherit;наследовать;db;False
+initialize;инициализировать;db;False
+input;ввод;db;False
+insert;вставить (например, данные в БД);db;False
+install, setup;установить (например, приложение);db;False
+instance;экземпляр (например, класса);db;False
+integrate;интегрировать;db;False
+interface;интерфейс;db;False
+invalid;недействительный, недопустимый;db;False
+issue;проблема, вопрос, требующий решения;db;False
+italic;курсив;db;False
+iteration;итерация (например, итерация цикла);db;False
+join;объединить (например, список в строку или объединить данные нескольких таблиц);db;False
+key, keyword;ключ;db;False
+keyboard;клавиатура;db;False
+laptop;ноутбук;db;False
+last;последний;db;False
+legacy;наследие (legacy code - это код, который перешёл «по наследству» от предыдущих разработчиков);db;False
+length;длина (например, строки);db;False
+library;библиотека;db;False
+limit;ограничение;db;False
+list;список, перечень, перечисление;db;False
+list;список;db;False
+login;вход, войти, пройти аутентификацию (например, на сервере);db;False
+logout;выход, выйти (например, с сервера);db;False
+loop;цикл;db;False
+maintain;поддерживать;db;False
+method;метод;db;False
+middle;середина, средний;db;False
+module;модуль;db;False
+monitor, screen;монитор, экран;db;False
+mouse;мышь;db;False
+multiprocessing;многопроцессорная обработка;db;False
+mutable;изменяемый (например, тип данных);db;False
+nested;вложенный (вложенный цикл, например);db;False
+network;сеть;db;False
+number;число;db;False
+object-oriented programming;ООП, объектно-ориентированное программирование;db;False
+object;объект;db;False
+open source;ПО с открытым исходным кодом;db;False
+open;открыть (например, файл);db;False
+output;вывод;db;False
+package;пакет;db;False
+parallelism;параллелизм;db;False
+parameter;параметр;db;False
+parent;родитель, родительский;db;False
+partition;раздел диска;db;False
+paste;вставлять (например, текст или файл);db;False
+path;путь (до файла, например);db;False
+placeholder;заполнитель, место для размещения чего-то;db;False
+prepare;подготовить (например, данные на отправку);db;False
+private;приватный (например, приватный метод);db;False
+process;процесс;db;False
+property;свойство;db;False
+protected;защищённый (например, защищённый метод);db;False
+public;публичный (например, публичный метод);db;False
+query;запрос;db;False
+queue;очередь;db;False
+quotes;кавычки, символы кавычек;db;False
+read;прочесть (например, из файла или из сети);db;False
+reboot;перезагрузить;db;False
+record;запись (записывать);db;False
+redirect;перенаправить;db;False
+remove, delete, drop;удалять;db;False
+report;отчёт;db;False
+request;запрос;db;False
+return;возврат, вернуть (например, возврат значения из функции);db;False
+root;корень (обычно имеют в виду корневого пользователя ОС с максимальными правами);db;False
+router;роутер, маршрутизатор (от слова route, маршут);db;False
+row;строка;db;False
+rule;правило;db;False
+run, execute;запустить, выполнить;db;False
+save;сохранить;db;False
+scope;область видимости;db;False
+search;поиск, искать, найти;db;False
+security;безопасность;db;False
+select;выбрать (например, данные из БД);db;False
+send;отправить (например, send request — отправить запрос);db;False
+server;сервер в сети (компьютер, отвечающий на запросы по сети, или конкретная программа, запущенная на нём, обслуживающая сетевые запросы). От слова serve, обслуживать;db;False
+set;множество;db;False
+settings;настройки;db;False
+shell;командная оболочка;db;False
+show;показать;db;False
+shutdown;выключить;db;False
+sign;подписать;db;False
+slow;медленный;db;False
+software;программное обеспечение (ПО);db;False
+sort;сортировать;db;False
+split;разделить (например, строку по символу запятой);db;False
+static;статичный (например, статичный метод);db;False
+storage;хранилище;db;False
+stream;поток (данных);db;False
+string;строка;db;False
+table;таблица (например, в базе данных);db;False
+template;шаблон;db;False
+terminal;командный терминал;db;False
+test;тест;user;False
+text;текст;db;False
+thread;поток (исполнения);db;False
+time;время;db;False
+tool;инструмент;db;False
+true / false;правда / ложь;db;False
+tuple;кортеж;db;False
+under;под (например, under the hood — под капотом);db;False
+underline;подчеркивание;db;False
+uninstall;удалить установленное;db;False
+update;обновить (например, приложение);db;False
+upload;выгружать что-то (например, на сервер);db;False
+use;использовать;db;False
+useful;полезный;db;False
+user;пользователь;db;False
+utility;утилита;db;False
+value;значение;db;False
+variable;переменная;db;False
+verify;проверить, верифицировать;db;False
+work;работа, работать;db;False
+write;записать (например, в файл или в сеть);db;False
+yet;пока что;db;False
