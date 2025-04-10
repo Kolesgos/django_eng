@@ -1,0 +1,26 @@
+{% extends "base_page.html" %}
+
+{% block page-title %}
+Верно!
+{% endblock %}
+
+{% block content %}
+<div class="container-sm px-5 py-5" id="term-form">
+    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+        <div class="col d-flex">
+            <div class="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+                <svg class="bi" width="1em" height="1em">
+                    <use xlink:href="#cpu-fill"></use>
+                </svg>
+            </div>
+            <div>
+                <h2 class="pb-2 border-bottom">Что можно сделать?</h2>
+                <ul>
+                    <li>продолжить <a href="/train">тренировку</a></li>
+                    <li>вернуться на <a href="/">главную</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
